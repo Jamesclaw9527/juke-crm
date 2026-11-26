@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="30" height="110" viewBox="0 0 30 110" fill="none"><rect width="30" height="110" rx="4" fill="#4366e3"/><path d="M9 14h12a2.6 2.6 0 0 1 2.6 2.6v7.2A2.6 2.6 0 0 1 21 26.4h-6.2L11 30v-3.6H9A2.6 2.6 0 0 1 6.4 23.8v-7.2A2.6 2.6 0 0 1 9 14Z" fill="#ffffff"/><g font-family="-apple-system, PingFang SC, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#ffffff"><text x="15" y="46" text-anchor="middle">联</text><text x="15" y="64" text-anchor="middle">系</text><text x="15" y="82" text-anchor="middle">我</text><text x="15" y="100" text-anchor="middle">们</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="110" viewBox="0 0 30 110" fill="none">
+  <!-- edge contact tab: characters stacked, outline bubble underneath -->
+  <rect width="30" height="110" rx="4" fill="#4366e3"/>
+  <g font-family="-apple-system, PingFang SC, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#ffffff" text-anchor="middle">
+    <text x="15" y="31">联</text>
+    <text x="15" y="46">系</text>
+    <text x="15" y="61">我</text>
+    <text x="15" y="76">们</text>
+  </g>
+  <path d="M7.6 88.4h13.8c1.1 0 2 .9 2 2v6.2c0 1.1-.9 2-2 2h-6.6l-2.7 2.3v-2.3H7.6c-1.1 0-2-.9-2-2v-6.2c0-1.1.9-2 2-2Z"
+        stroke="#ffffff" stroke-width="1.1" stroke-linejoin="round" fill="none"/>
+  <circle cx="9.9" cy="93.5" r="0.75" fill="#ffffff"/>
+  <circle cx="12.9" cy="93.5" r="0.75" fill="#ffffff"/>
+  <circle cx="15.9" cy="93.5" r="0.75" fill="#ffffff"/>
+</svg>
