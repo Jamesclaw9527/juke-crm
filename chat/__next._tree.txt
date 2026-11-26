@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/39dd-xnyda9to.css","style"]
-:HL["/_next/static/chunks/24i_d5v85tyme.css","style"]
+:HL["/juke-crm/_next/static/chunks/39dd-xnyda9to.css","style"]
+:HL["/juke-crm/_next/static/chunks/24i_d5v85tyme.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"chat","h":96,"c":"$Q2"}]]
-0:{"b":"PXUFw-w4K7n5PPujzzRrk","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"nPtS46YtODuPRTYJnkrGO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
