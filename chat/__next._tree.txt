@@ -3,4 +3,4 @@
 :HL["/juke-crm/_next/static/chunks/26uovdbmttfgk.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"chat","h":96,"c":"$Q2"}]]
-0:{"b":"lduCB_liUgOfEVx6Y8ryH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"A3Rci1XZXTNREIWQt9xMP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
