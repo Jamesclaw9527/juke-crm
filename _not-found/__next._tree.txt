@@ -1,4 +1,4 @@
 :HL["/juke-crm/_next/static/chunks/39dd-xnyda9to.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"EFGHQi9vZ8GocVkG1ChG2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"lduCB_liUgOfEVx6Y8ryH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
